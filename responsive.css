@@ -1,0 +1,25 @@
+@media screen and (min-width:1530px){
+    .main-container{
+        width:1225px;
+    }
+}
+
+@media screen and (min-height:720px){
+    .main-container{
+        height: 576px;
+    }
+    .inside-box{
+        height: 576px;
+    }
+    .inside-box2{
+        height: 576px;
+    }
+}
+@media  screen and (max-height:720px) {
+    .inside-box{
+        height: 576px;
+    }
+    .inside-box2{
+        height: 576px;
+    }
+}
